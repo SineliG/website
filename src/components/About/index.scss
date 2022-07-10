@@ -1,0 +1,45 @@
+.flat-button {
+    color: #81B29A;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 4px;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 10px 18px;
+    border: 1px solid #81B29A;
+    margin-top: 25px;
+    float: left;
+    animation: fadeIn 1s 1.8s backwards;
+    white-space: nowrap;
+
+    &:hover {
+      background: #81B29A;
+      color: #333;
+    }
+.flat-button {
+      color: #81B29A;
+      font-size: 13px;
+      font-weight: 400;
+      letter-spacing: 4px;
+      font-family: sans-serif;
+      text-decoration: none;
+      padding: 10px 18px;
+      border: 1px solid #81B29A;
+      margin-top: 25px;
+      float: left;
+      animation: fadeIn 1s 1.8s backwards;
+      white-space: nowrap;
+  
+      &:hover {
+        background: #81B29A;
+        color: #333;
+      }
+    }}
+
+.sin img {
+  width: 430px;
+  height: 380px;
+  position: absolute;
+  top: 15%;
+  right: 10%;
+}
